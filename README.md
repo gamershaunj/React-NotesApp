@@ -1,3 +1,8 @@
+This is a Web App where where users can enter text for each note and save it in local storage, delete an existing note, dynamically search among the notes and add character limit.
+
+Built using React Hooks, components, props, useState(), useEffect(), CSS styles with Flexbox and Grid. Local storage API used for data persistence.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
